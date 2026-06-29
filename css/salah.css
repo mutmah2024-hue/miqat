@@ -1,0 +1,16 @@
+.prayer_card{
+    position: relative;
+
+    width: 340px;
+    height: 560px;
+
+    margin: auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 80px 30px;
+    gap: 18px;
+}
