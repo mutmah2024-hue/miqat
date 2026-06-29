@@ -1,0 +1,38 @@
+:root[data-theme="desert"]{
+
+/* Backgrounds */
+--bg: #F7F2EB;
+--bg-secondary: #EFE6D9;
+--surface: #FFFDFC;
+--surface-2: #FFF8F0;
+
+/* Primary */
+--primary: #B97945;
+--primary-light: #D59B63;
+--primary-dark: #8D5B3A;
+
+/* Secondary */
+--secondary: #E9D5B5;
+--secondary-light: #F3E7D4;
+
+/* Accent */
+--accent: #D8A54A;
+
+/* Text */
+--text: #2C211A;
+--text-secondary: #665A52;
+--text-muted: #9A8C80;
+
+/* Status */
+--success: #5E9F63;
+--warning: #D89A38;
+--danger: #C75B4B;
+--info: #5C7DA5;
+
+/* Border */
+--border: #E6D8C9;
+
+/* Shadow */
+--shadow: rgba(44,33,26,.12);
+
+}
